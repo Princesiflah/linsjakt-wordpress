@@ -1,0 +1,128 @@
+.header-outer .header-nav-inner {
+	background-color: #ffffff!important;
+}
+.header-outer .ruby-container {
+	min-width: 100%;
+}
+.header-outer .header-logo-wrap {
+	height: 60px;
+}
+.header-outer .header-logo-wrap .logo-image img {
+	height: 40px;
+	margin: 10px 0;
+}
+.header-style-2 .main-nav-inner > li > a {
+	color: black;
+}
+.ruby-is-stick .header-nav-inner {
+	opacity: 1;
+	border-bottom: 1px solid #d4d4d4;
+}
+
+.widget {
+	margin-bottom: 30px;
+}
+
+
+.sb-widget-ad .widget-ad-image img {
+	display: block;
+	min-width: 100%;
+	height: auto;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.ruby-page-wrap {
+	margin-bottom: 0px;
+}
+.main-nav-wrap, .off-canvas-nav-wrap {
+    font-family: 'lato';
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+    color: black!important;
+}
+
+.footer-wrap {
+	margin-top: 20px;
+}
+
+
+.header-logo-mobile-wrap .logo-image-mobile {
+padding: 2px 0;
+height: 60px;
+align-items: center;
+display: flex;
+justify-content: space-around;
+}
+.banner-search-icon {
+	height: 60px;
+display: flex!important;
+align-items: center;
+justify-content: center;
+}
+.header-nav-inner .off-canvas-btn {
+display: block !important;
+height: 60px!important;
+}
+
+.ruby-container {
+    max-width: 1170px!important;
+}
+.post-list{
+padding: 20px;
+	margin-bottom: 0px;
+}
+.ruby-content-wrap.blog-inner.col-sm-8.col-xs-12.content-with-sidebar.clearfix {
+	padding: 0px;
+	background: none;
+	border: none;
+}
+li.hittabilliga {
+	background-color: #ff8b0f;
+	margin-top: -1px;
+	border-bottom: 1px solid #ff8b0f;
+}
+li.hittabilliga a {
+	color: white!important;
+}
+iframe {
+	width: 100%;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #cfcfd1;
+	border-top: 1px solid #cfcfd1;
+	background-color: white;
+}
+.block-content-wrap, .blog-content-wrap {
+	margin: 0px;
+	margin-bottom: 20px;
+	border: 1px solid #cfcfd1;
+	background-color: white;
+}
+.post-list {
+	margin: 0px;
+	background-color: white;
+}
+.single-wrap iframe.products.before  {
+	max-height: 78px;
+	margin-top: -1px;
+	height: 78px;
+	margin-bottom: 0px!important;
+	border-bottom: 1px solid #dededc;
+}
+.single-wrap iframe.products.after {
+	border-top: none;
+	height: 78px;
+	border-bottom: 1px solid #dededc;
+}
+.category iframe.products.before  {
+		margin-top: -1px;
+}
+
+.category iframe.products.after{
+	height: 386px;
+	border-top: none;
+
+}
